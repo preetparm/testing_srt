@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.inout {
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+}
